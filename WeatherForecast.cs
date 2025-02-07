@@ -1,4 +1,4 @@
-namespace apiwebpage
+namespace Ass1
 {
     public class WeatherForecast
     {

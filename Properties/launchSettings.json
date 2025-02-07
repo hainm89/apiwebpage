@@ -9,12 +9,12 @@
     }
   },
   "profiles": {
-    "apiwebpage": {
+    "Ass1": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:5012",
+      "applicationUrl": "http://localhost:5240",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
